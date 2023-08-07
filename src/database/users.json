@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "uid": 1,
+      "role": 0,
+      "password": "",
+      "name": "Victor Lopez",
+      "cardno": 0,
+      "userId": "1"
+    },
+    {
+      "uid": 2,
+      "role": 0,
+      "password": "",
+      "name": "Makika Herrera",
+      "cardno": 0,
+      "userId": "2"
+    },
+    {
+      "uid": 3,
+      "role": 0,
+      "password": "",
+      "name": "Kessler Torres",
+      "cardno": 0,
+      "userId": "3"
+    }
+  ]
+}
