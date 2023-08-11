@@ -9,7 +9,7 @@
             "request": "launch",
             // npm run start
             "name": "Launch Program",
-            "program": "${workspaceFolder}/src/server.js"
+            "program": "${workspaceFolder}/server.js"
         }
     ]
 }
