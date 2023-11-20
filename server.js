@@ -18,8 +18,7 @@ try {
 // Configurar puerto
 const PORT_FINGERPRINT = process.env.PORT_FINGERPRINT || 4370;
 const IP_FINGERPRINT = process.env.IP_FINGERPRINT || "192.168.1.201";
-const API =
-  process.env.API || "http://api-cars-dev.fullcarsservices.com/api/v1";
+const API = process.env.API;
 
 const PORT_NODE = process.env.PORT_NODE || 3000;
 
